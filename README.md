@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sornakaviya P 👋
 
-<!--
-**sornakaviya/sornakaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Science (2021–2025)  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+
+### 📊 Excel Dashboard
+Global Box Office Analysis using Pivot Tables, Charts, Slicers
+
+### ⚡ Electricity Usage Analysis (SQL)
+- Used Joins, Subqueries
+- Found peak usage trends
+
+## 📫 Contact
+Email: crptkaviya@gmail.com
+
